@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="52.534" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\MeusProgramas\mleitejunior\E2EProject\target\test-classes;D:\MeusProgramas\mleitejunior\E2EProject\target\classes;C:\Users\mleite\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\mleite\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\mleite\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\mleite\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\mleite\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\mleite\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\mleite\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\mleite\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\mleite\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\mleite\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\mleite\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\mleite\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\mleite\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\mleite\.m2\repository\org\testng\testng\7.3.0\testng-7.3.0.jar;C:\Users\mleite\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\mleite\.m2\repository\org\apache\ant\ant\1.10.3\ant-1.10.3.jar;C:\Users\mleite\.m2\repository\org\apache\ant\ant-launcher\1.10.3\ant-launcher-1.10.3.jar;C:\Users\mleite\.m2\repository\com\google\inject\guice\4.2.2\guice-4.2.2-no_aop.jar;C:\Users\mleite\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\mleite\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\mleite\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.6_10\bin"/>
+    <property name="sun.java.command" value="C:\Users\mleite\AppData\Local\Temp\surefire14477335684636722885\surefirebooter9850693116060745254.jar C:\Users\mleite\AppData\Local\Temp\surefire14477335684636722885 2020-08-26T14-39-27_003-jvmRun1 surefire3048529466080409132tmp surefire_013725005110463123281tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\MeusProgramas\mleitejunior\E2EProject\target\test-classes;D:\MeusProgramas\mleitejunior\E2EProject\target\classes;C:\Users\mleite\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\mleite\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\mleite\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\mleite\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\mleite\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\mleite\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\mleite\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\mleite\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\mleite\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\mleite\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\mleite\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\mleite\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\mleite\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\mleite\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\mleite\.m2\repository\org\testng\testng\7.3.0\testng-7.3.0.jar;C:\Users\mleite\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\mleite\.m2\repository\org\apache\ant\ant\1.10.3\ant-1.10.3.jar;C:\Users\mleite\.m2\repository\org\apache\ant\ant-launcher\1.10.3\ant-launcher-1.10.3.jar;C:\Users\mleite\.m2\repository\com\google\inject\guice\4.2.2\guice-4.2.2-no_aop.jar;C:\Users\mleite\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\mleite\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\mleite\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\mleite"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk11.0.6_10"/>
+    <property name="testng.dtd.http" value="true"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\MeusProgramas\mleitejunior\E2EProject"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\mleite\AppData\Local\Temp\surefire14477335684636722885\surefirebooter9850693116060745254.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.6+10-LTS"/>
+    <property name="user.name" value="mleite"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Corretto-11.0.6.10.1"/>
+    <property name="localRepository" value="C:\Users\mleite\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\mleite\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.6"/>
+    <property name="user.dir" value="D:\MeusProgramas\mleitejunior\E2EProject"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="webdriver.gecko.driver" value="dependencies\geckodriver.exe"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.6_10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python38\Scripts\;C:\Python38\;C:\Program Files\Amazon Corretto\jdk11.0.6_10\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\SourceGear\Common\DiffMerge\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Users\mleite\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\mleite\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\mleite\AppData\Local\Programs\Python\Python37\;C:\Users\mleite\AppData\Local\Microsoft\WindowsApps;C:\Users\mleite\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\mleite\AppData\Local\GitHubDesktop\bin;C:\Users\mleite\AppData\Roaming\npm;C:\Users\mleite\AppData\Local\Yarn\bin;C:\Users\mleite\AppData\Roaming\npm;C:\Program Files\apache-maven-3.6.3\bin;."/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.6+10-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="basePageNavigation[teste1@teste.com, senha1, Primeiro Teste](1)" classname="app.HomePage" time="13.101">
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+0 [main] INFO app.Base  - Driver is initialized
+4198 [main] INFO app.Base  - Driver is initialized
+4198 [main] INFO app.Base  - Driver is initialized
+13873 [main] INFO app.Base  - Navigate to Homepage
+13873 [main] INFO app.Base  - Navigate to Homepage
+18105 [main] INFO app.Base  - Driver is initialized
+18105 [main] INFO app.Base  - Driver is initialized
+18105 [main] INFO app.Base  - Driver is initialized
+28583 [main] INFO app.Base  - Navigate to Homepage
+28583 [main] INFO app.Base  - Navigate to Homepage
+28583 [main] INFO app.Base  - Navigate to Homepage
+37844 [main] INFO app.Base  - Navigate to Homepage
+37844 [main] INFO app.Base  - Navigate to Homepage
+37844 [main] INFO app.Base  - Navigate to Homepage
+41837 [main] INFO app.Base  - Primeiro Teste
+41837 [main] INFO app.Base  - Primeiro Teste
+41837 [main] INFO app.Base  - Primeiro Teste
+]]></system-out>
+    <system-err><![CDATA[1598463569519	geckodriver	INFO	Listening on 127.0.0.1:26210
+1598463570003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mleite\\AppData\\Local\\Temp\\rust_mozprofileZxEGr8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598463573038	Marionette	INFO	Listening on port 55204
+1598463573143	Marionette	WARN	TLS certificate errors will be ignored for this session
+ago 26, 2020 2:39:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+1598463573473	geckodriver	INFO	Listening on 127.0.0.1:41753
+1598463573829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mleite\\AppData\\Local\\Temp\\rust_mozprofileeeInem"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598463577007	Marionette	INFO	Listening on port 55237
+1598463577455	Marionette	WARN	TLS certificate errors will be ignored for this session
+ago 26, 2020 2:39:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+1598463587314	geckodriver	INFO	Listening on 127.0.0.1:30776
+1598463587717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mleite\\AppData\\Local\\Temp\\rust_mozprofilesKyKIT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598463591106	Marionette	INFO	Listening on port 55310
+1598463591350	Marionette	WARN	TLS certificate errors will be ignored for this session
+ago 26, 2020 2:39:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="basePageNavigation[teste1@teste.com, senha1, Segundo Teste](2)" classname="app.HomePage" time="2.723">
+    <system-out><![CDATA[43529 [main] INFO app.Base  - Navigate to Homepage
+43529 [main] INFO app.Base  - Navigate to Homepage
+43529 [main] INFO app.Base  - Navigate to Homepage
+44575 [main] INFO app.Base  - Segundo Teste
+44575 [main] INFO app.Base  - Segundo Teste
+44575 [main] INFO app.Base  - Segundo Teste
+]]></system-out>
+  </testcase>
+  <testcase name="basePageNavigation" classname="app.ValidateTitle" time="0.034">
+    <system-out><![CDATA[44618 [main] INFO app.Base  - Successfully validated text message
+44618 [main] INFO app.Base  - Successfully validated text message
+44618 [main] INFO app.Base  - Successfully validated text message
+]]></system-out>
+  </testcase>
+  <testcase name="basePageNavigation" classname="app.ValidateNavigationBar" time="0.053">
+    <system-out><![CDATA[44689 [main] INFO app.Base  - Navigate to Homepage
+44689 [main] INFO app.Base  - Navigate to Homepage
+44689 [main] INFO app.Base  - Navigate to Homepage
+]]></system-out>
+  </testcase>
+</testsuite>

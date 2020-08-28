@@ -1,0 +1,8 @@
+08:59:07.586 [TestNG-tests-3] INFO  app.Base - Navigate to Homepage
+08:59:07.671 [TestNG-tests-3] INFO  app.Base - Navigate to Homepage
+08:59:10.618 [TestNG-tests-1] INFO  app.Base - Navigate to Homepage
+08:59:14.787 [TestNG-tests-1] INFO  app.Base - Segundo Teste
+09:07:42.578 [TestNG-tests-3] INFO  app.Base - Driver is initialized
+09:07:42.830 [TestNG-tests-1] INFO  app.Base - Driver is initialized
+09:07:43.282 [TestNG-tests-2] INFO  app.Base - Driver is initialized
+09:08:02.402 [TestNG-tests-3] INFO  app.Base - Navigate to Homepage
